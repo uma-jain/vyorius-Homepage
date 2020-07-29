@@ -1,0 +1,62 @@
+.mainPageHeading6 {
+    color: #FF914D;
+    font-size: 18px;
+    font-weight:600;
+}
+.orangeText{
+    color: #FF914D;
+}
+
+.mainHeading {
+    font-size: 4.2rem;
+    letter-spacing: 1px;
+}
+
+h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+/**/
+
+.mainPageP {
+    font-size: 1.5rem;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+.button1 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-right: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #FF914D;
+    border-color: #FF914D;
+    color: white;
+}
+.button2 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-right: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #fff;
+    border-color: #FF914D;
+    color: #FF914D;
+}
+.page1{
+    padding:20px;
+    
+}
+.deliveryLink {
+    margin-top: 2%;
+    font-size:20px
+}
+
